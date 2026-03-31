@@ -8,7 +8,6 @@ function criarListaNumeros(quantidade){
 return listaNumeros
 }
 
-
 function criarListaPares(quantidade){
     let listaPares = []
     let par = 2
