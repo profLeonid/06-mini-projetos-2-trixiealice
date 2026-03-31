@@ -9,5 +9,14 @@ return listaNumeros
 }
 
 function gerarParcela(number){
+ letParcela = []
+ 
+}
 
+function gerarParcela(number){
+    
+}
+
+function gerarParcela(number){
+    
 }
